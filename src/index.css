@@ -83,10 +83,14 @@ body {
   justify-content: space-around;
 }
 
+.cartItem_img {
+  width: 100px;
+  height: 100px;
+}
+
 .cartItem_img img {
-  width: 5rem;
-  height: 5rem;
-  object-fit: cover;
+  max-width: 80px;
+  max-height: 100px;
 }
 
 .cartItem_info {

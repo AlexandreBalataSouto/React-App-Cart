@@ -11,7 +11,7 @@ const CartItem = ({
     <>
       <div className="cartItem">
         <div className="cartItem_img">
-          <img src={img} alt="image" />
+          <img src={img} alt="phone" />
         </div>
         <div className="cartItem_info">
           <p className="cartItem_info_text">

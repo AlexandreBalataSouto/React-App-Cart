@@ -1,5 +1,5 @@
-import React, { useState, useReducer, useEffect } from "react";
-import data from "./data";
+import React, { useReducer, useEffect } from "react";
+import { data } from "./data";
 import CartItem from "./CartItem";
 import reducer from "./reducer";
 
